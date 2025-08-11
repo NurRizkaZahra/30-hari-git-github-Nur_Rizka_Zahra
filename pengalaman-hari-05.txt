@@ -1,0 +1,1 @@
+Jadi kali ini keren banget.. get restore bisa mengembalikan ke awal apa yang kita ubah,tp sebelumnya emng sdh terubah waktu dicek pake git status..
