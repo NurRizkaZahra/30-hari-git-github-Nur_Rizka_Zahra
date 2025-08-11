@@ -1,0 +1,11 @@
+commit 4a5f75d3c8c60b0ace04e552415e66cfd554f7d2 (HEAD -> master)
+Author: NurRizkaZahra <nz482524@gmail.com>
+Date:   Mon Aug 11 11:03:19 2025 +0800
+
+    Menambahkan status repositori ke file hari-04.txt
+
+commit ecb87246ac3482a6e728df29365f76ff427133a7
+Author: NurRizkaZahra <nz482524@gmail.com>
+Date:   Mon Aug 11 10:31:17 2025 +0800
+
+    Commit pertama: Inisialisasi proyek dan tugas hari 1 &2
